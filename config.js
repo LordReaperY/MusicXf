@@ -1,6 +1,6 @@
 module.exports = {
-    "prefix": "c!",
-    "token_bot": "",
+    "prefix": "mx!",
+    "TOKEN": "",
     "youtube_api": "AIzaSyBNTVZo1sk54hW6OURSrO-ppUijx9sTvKQ",
     "colors": {
       "error": "0xFF0000",
