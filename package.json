@@ -1,0 +1,33 @@
+{
+  "name": "discord-music",
+  "version": "0.0.1",
+  "description": "A simple discord music bot.",
+  "main": "index.js",
+  "engines": {
+    "node": "12.x"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "discordjs/discord.js",
+    "simple-youtube-api": "^5.2.1",
+    "ytdl-core": "^3.2.0",
+    "discord-player": "^2.3.1",
+    "fs": "^0.0.2",
+    "@discordjs/opus": "^0.3.2",
+    "youtube-url": "^0.5.0",
+    "youtube-metadata-from-url": "^1.0.3",
+    "youtube-stream-url": "^2.0.0",
+    "node-fetch": "^2.6.0"
+  },
+  "repository": {
+    "url": "https://github.com/hydraindia/discord-music"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "music",
+    "discord"
+  ]
+}
