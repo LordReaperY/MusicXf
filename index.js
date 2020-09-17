@@ -75,4 +75,4 @@ String.prototype.youtube_parser = function (){
 
 }
 
-client.login(config.token_bot); //This is the heart of the bot
+client.login(process.env.TOKEN); //This is the heart of the bot
